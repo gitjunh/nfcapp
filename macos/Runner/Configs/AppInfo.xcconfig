@@ -8,7 +8,7 @@
 PRODUCT_NAME = nfcapp
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.junh.nfcapp.nfcapp
+PRODUCT_BUNDLE_IDENTIFIER = com.example.nfcapp
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2025 com.junh.nfcapp. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.
